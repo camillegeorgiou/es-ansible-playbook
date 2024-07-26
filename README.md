@@ -12,10 +12,13 @@ The repo contains a script to download Elastic and Kibana and set up the playboo
 2. Python
 
 3. Ansible. If not installed, you can use pip or brew:
-
+```
 pip install ansible
-# or
+```
+or
+```
 brew install ansible
+```
 
 4. Curl - to download the tar.gz files.
 
